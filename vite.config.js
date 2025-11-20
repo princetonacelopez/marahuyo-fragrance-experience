@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/test/',
+  base: '/marahuyo-fragrance-experience/',
   plugins: [react(), tailwindcss()]
 })
