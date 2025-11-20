@@ -1,0 +1,38 @@
+[
+  {
+    "id": "kundiman",
+    "name": "Kundimán",
+    "translation": "The Love Song",
+    "desc": "Tobacco, Sampaguita, Old Wood",
+    "longDesc": "A memory of smoke curling around invisible figures. The scent of a love letter burned before it was sent.",
+    "poetry": "Opens with the whisper of Ylang Ylang, settling into the warmth of wet earth and ash.",
+    "price": 4500,
+    "theme": "smoke",
+    "colors": ["#8a5a44", "#d4a373", "#fefae0"],
+    "notes": ["Dried Tobacco", "White Jasmine", "Burnt Cedar"]
+  },
+  {
+    "id": "diwata",
+    "name": "Diwata",
+    "translation": "The Muse",
+    "desc": "Green Mango, Coconut Milk, White Musk",
+    "longDesc": "Bioluminescence flickering in a dark mangrove forest. A sweetness that is dangerous and divine.",
+    "poetry": "Sharp green mango cuts through the humidity, resting on a bed of milky, spectral musk.",
+    "price": 4500,
+    "theme": "fireflies",
+    "colors": ["#006d77", "#83c5be", "#edf6f9"],
+    "notes": ["Unripe Mango", "Coconut Cream", "River Moss"]
+  },
+  {
+    "id": "tala",
+    "name": "Tala",
+    "translation": "The Morning Star",
+    "desc": "Calamansi, Sea Salt, Driftwood",
+    "longDesc": "Light refracting through deep ocean water. The silence of the shore before the sun rises.",
+    "poetry": "A piercing citrus light that dissolves into the grey salinity of ancient driftwood.",
+    "price": 4500,
+    "theme": "water",
+    "colors": ["#2b2d42", "#8d99ae", "#edf2f4"],
+    "notes": ["Calamansi Rind", "Pacific Salt", "Aged Teak"]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "text": "Where do you seek refuge?",
+    "options": [
+      { "text": "A deep, mossy forest floor", "affinity": "kunduman" },
+      { "text": "The sea crashing against black rocks", "affinity": "tala" },
+      { "text": "A sanctuary of shadow and light", "affinity": "diwata" }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "What time creates the most magic?",
+    "options": [
+      { "text": "The Golden Hour", "affinity": "kunduman" },
+      { "text": "The Witching Hour", "affinity": "diwata" },
+      { "text": "The First Light", "affinity": "tala" }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "What texture does your soul resemble?",
+    "options": [
+      { "text": "Rough Stone", "affinity": "kunduman" },
+      { "text": "Silk and Water", "affinity": "tala" },
+      { "text": "Velvet and Thorn", "affinity": "diwata" }
+    ]
+  }
+]
